@@ -1,0 +1,123 @@
+text,true_label,predicted_label
+"Voyager ouvre de nouveaux horizons et expériences.",French,French
+"J'adore passer du temps avec mes amis et ma famille.",French,French
+"Une alimentation saine et l'exercice conduisent à une vie meilleure.",French,French
+"Viajar abre nuevos horizontes y experiencias.",Spanish,Spanish
+"Healthy food and exercise lead to a better life.",English,English
+"Le temps est magnifique aujourd'hui et je me sens heureux.",French,French
+"La música y el arte inspiran creatividad y pasión.",Spanish,Spanish
+"Voyager ouvre de nouveaux horizons et expériences.",French,French
+"J'aime lire des livres et apprendre de nouvelles choses.",French,French
+"La technologie stimule le progrès et l'innovation dans notre société.",French,French
+"J'adore passer du temps avec mes amis et ma famille.",French,French
+"Traveling opens up new horizons and experiences.",English,English
+"I love spending time with friends and family.",English,English
+"I love spending time with friends and family.",English,English
+"Education is the key to success in life.",English,English
+"La programmation est à la fois difficile et gratifiante.",French,French
+"I love spending time with friends and family.",English,English
+"Traveling opens up new horizons and experiences.",English,English
+"Une alimentation saine et l'exercice conduisent à une vie meilleure.",French,French
+"Programming is both challenging and rewarding.",English,English
+"The weather is beautiful today and I feel happy.",English,English
+"The weather is beautiful today and I feel happy.",English,English
+"Traveling opens up new horizons and experiences.",English,English
+"Programming is both challenging and rewarding.",English,English
+"Every day is a new opportunity to achieve greatness.",English,English
+"Education is the key to success in life.",English,English
+"La technologie stimule le progrès et l'innovation dans notre société.",French,French
+"Programming is both challenging and rewarding.",English,English
+"Every day is a new opportunity to achieve greatness.",English,English
+"Technology drives progress and innovation in our society.",English,English
+"Healthy food and exercise lead to a better life.",English,English
+"Me encanta leer libros y aprender cosas nuevas.",Spanish,Spanish
+"La música y el arte inspiran creatividad y pasión.",Spanish,Spanish
+"La musique et l'art inspirent la créativité et la passion.",French,French
+"I enjoy reading books and learning new things.",English,English
+"Every day is a new opportunity to achieve greatness.",English,English
+"La programación es desafiante y gratificante.",Spanish,Spanish
+"Music and art inspire creativity and passion.",English,English
+"Music and art inspire creativity and passion.",English,English
+"Voyager ouvre de nouveaux horizons et expériences.",French,French
+"Una alimentación saludable y ejercicio conducen a una vida mejor.",Spanish,Spanish
+"J'aime lire des livres et apprendre de nouvelles choses.",French,French
+"J'adore passer du temps avec mes amis et ma famille.",French,French
+"La musique et l'art inspirent la créativité et la passion.",French,French
+"I enjoy reading books and learning new things.",English,English
+"J'adore passer du temps avec mes amis et ma famille.",French,French
+"Every day is a new opportunity to achieve greatness.",English,English
+"I enjoy reading books and learning new things.",English,English
+"La tecnología impulsa el progreso y la innovación en nuestra sociedad.",Spanish,Spanish
+"Voyager ouvre de nouveaux horizons et expériences.",French,French
+"Traveling opens up new horizons and experiences.",English,English
+"Healthy food and exercise lead to a better life.",English,English
+"Programming is both challenging and rewarding.",English,English
+"Une alimentation saine et l'exercice conduisent à une vie meilleure.",French,French
+"Disfruto pasar tiempo con amigos y familia.",Spanish,Spanish
+"J'aime lire des livres et apprendre de nouvelles choses.",French,French
+"La programmation est à la fois difficile et gratifiante.",French,French
+"Disfruto pasar tiempo con amigos y familia.",Spanish,Spanish
+"Le temps est magnifique aujourd'hui et je me sens heureux.",French,French
+"Technology drives progress and innovation in our society.",English,English
+"La programación es desafiante y gratificante.",Spanish,Spanish
+"Every day is a new opportunity to achieve greatness.",English,English
+"Every day is a new opportunity to achieve greatness.",English,English
+"La musique et l'art inspirent la créativité et la passion.",French,French
+"Traveling opens up new horizons and experiences.",English,English
+"Une alimentation saine et l'exercice conduisent à une vie meilleure.",French,French
+"Viajar abre nuevos horizontes y experiencias.",Spanish,Spanish
+"Healthy food and exercise lead to a better life.",English,English
+"La educación es la clave del éxito en la vida.",Spanish,Spanish
+"I enjoy reading books and learning new things.",English,English
+"Music and art inspire creativity and passion.",English,English
+"Education is the key to success in life.",English,English
+"I enjoy reading books and learning new things.",English,English
+"Une alimentation saine et l'exercice conduisent à une vie meilleure.",French,French
+"The weather is beautiful today and I feel happy.",English,English
+"La educación es la clave del éxito en la vida.",Spanish,Spanish
+"Programming is both challenging and rewarding.",English,English
+"Technology drives progress and innovation in our society.",English,English
+"Music and art inspire creativity and passion.",English,English
+"Le temps est magnifique aujourd'hui et je me sens heureux.",French,French
+"Disfruto pasar tiempo con amigos y familia.",Spanish,Spanish
+"Every day is a new opportunity to achieve greatness.",English,English
+"La programación es desafiante y gratificante.",Spanish,Spanish
+"Education is the key to success in life.",English,English
+"J'aime lire des livres et apprendre de nouvelles choses.",French,French
+"Technology drives progress and innovation in our society.",English,English
+"Traveling opens up new horizons and experiences.",English,English
+"Technology drives progress and innovation in our society.",English,English
+"Healthy food and exercise lead to a better life.",English,English
+"I love spending time with friends and family.",English,English
+"Healthy food and exercise lead to a better life.",English,English
+"Programming is both challenging and rewarding.",English,English
+"L'éducation est la clé du succès dans la vie.",French,French
+"Voyager ouvre de nouveaux horizons et expériences.",French,French
+"I enjoy reading books and learning new things.",English,English
+"Music and art inspire creativity and passion.",English,English
+"J'adore passer du temps avec mes amis et ma famille.",French,French
+"Healthy food and exercise lead to a better life.",English,English
+"Cada día es una nueva oportunidad para alcanzar la grandeza.",Spanish,Spanish
+"Music and art inspire creativity and passion.",English,English
+"Le temps est magnifique aujourd'hui et je me sens heureux.",French,French
+"The weather is beautiful today and I feel happy.",English,English
+"Programming is both challenging and rewarding.",English,English
+"I love spending time with friends and family.",English,English
+"Le temps est magnifique aujourd'hui et je me sens heureux.",French,French
+"The weather is beautiful today and I feel happy.",English,English
+"Le temps est magnifique aujourd'hui et je me sens heureux.",French,French
+"Cada día es una nueva oportunidad para alcanzar la grandeza.",Spanish,Spanish
+"La technologie stimule le progrès et l'innovation dans notre société.",French,French
+Overall Accuracy,1.0,
+Precision_French,1.0,
+Recall_French,1.0,
+FMeasure_French,1.0,
+Precision_label,0.0,
+Recall_label,0.0,
+FMeasure_label,0.0,
+Precision_Spanish,1.0,
+Recall_Spanish,1.0,
+FMeasure_Spanish,1.0,
+Precision_English,1.0,
+Recall_English,1.0,
+FMeasure_English,1.0,
